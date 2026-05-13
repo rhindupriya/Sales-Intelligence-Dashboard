@@ -1,0 +1,42 @@
+{
+  "name": "Sales Analytics Professional Theme",
+  "dataColors": [
+    "#2563EB",
+    "#16A34A",
+    "#F59E0B",
+    "#0F766E",
+    "#DC2626",
+    "#64748B",
+    "#7C3AED",
+    "#0891B2"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFace": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#0F172A"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontFace": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#334155"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
